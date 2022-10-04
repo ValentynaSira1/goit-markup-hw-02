@@ -145,6 +145,8 @@ color: var(--color-brend);
 /* Portfolio */
 
 .list-button{
+    color: var(--color-primery);
+    background-color: #f5f4fa;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;  
